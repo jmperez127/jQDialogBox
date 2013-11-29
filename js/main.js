@@ -1,5 +1,9 @@
 $(function(){
     $("#alert").click(function(){
-       // $.alert("test");
+        $.dialogBox({
+            message: "Test with objects",
+            type: "info",
+            popup: "alert"
+        });
     });
 });
