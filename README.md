@@ -1,4 +1,4 @@
 jQDialogBox
 ===========
 
-a jQuery alternative to native javascript popup boxes.
+A fancy jQuery alternative to native javascript popup boxes.
