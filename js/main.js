@@ -1,7 +1,7 @@
 $(function(){
     $("#alert").click(function(){
         $.dialogBox({
-            message: "Test with objects",
+            message: "jQDialogBox Demo!",
             type: "info",
             popup: "alert",
             animationSpeed: 550

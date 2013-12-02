@@ -14,9 +14,18 @@
     left: 50%;
     width: 300px;
     background-color: #ffffff;
-    padding: 20px;
     top: 50%;
     min-height: 150px;
     margin-top: -75px;
     z-index:1000;
+}
+
+.close-dialog-box{
+    width: 24px;
+    background-color: red;
+    height: 24px;
+    float: right;
+    margin-right: 2px;
+    margin-top: 2px;
+    text-align: center;
 }
