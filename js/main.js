@@ -3,7 +3,8 @@ $(function(){
         $.dialogBox({
             message: "Test with objects",
             type: "info",
-            popup: "alert"
+            popup: "alert",
+            animationSpeed: 550
         });
     });
 });
